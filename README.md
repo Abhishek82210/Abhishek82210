@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhishek!
 
 🎓 **Recently Graduated | B.Tech CSE | 2021-2025**  
-🌐 **Aspiring Software Engineer | Full Stack Developer**  
+🌐 **Software Engineer | Full Stack Developer**  
 💻 **Java | Spring Boot | React | MySQL | MongoDB**
 
 ---

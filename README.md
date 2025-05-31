@@ -56,7 +56,7 @@ _PRASUNET COMPANY | Mar 2025 - Apr 2025_
 ## 📫 Let's Connect!
 
 - 📧 Email: [abhishekpardhan82210@gmail.com](mailto:abhishekpardhan82210@gmail.com)
-- 💼 LinkedIn: [Abhishek on LinkedIn](https://www.linkedin.com/in/abhishek-1b074b247/)
+- 💼 LinkedIn: [Abhishek on LinkedIn](www.linkedin.com/in/abhishek82210)
 - 🧑‍💻 GitHub: [@Abhishek82210](https://github.com/Abhishek82210)
 
 ---
